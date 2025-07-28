@@ -48,7 +48,7 @@ The Power BI dashboard provides interactive visuals for all insights above, incl
 
 ![Dashboard Preview](dashboard.png)
 ![Products](dashboard_preview_2.png)
-![Products_View](dashboard+preview_3.png)
+![Products_View](dashboard_preview_3.png)
 
 ## 🛠️ Tools Used
 
