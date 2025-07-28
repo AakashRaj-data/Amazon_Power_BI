@@ -1,7 +1,5 @@
 # Amazon_Power_BI
 
-# Amazon_Power_BI
-
 # 📊 Amazon Products on 2022
 
 This project explores Amazon product data from the year 2022 using **Power BI** for both data cleaning and visualization. The goal is to extract actionable insights related to product categories, seller behavior, reviews, and sales trends.
